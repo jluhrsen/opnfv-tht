@@ -83,6 +83,6 @@ outputs:
                   - 6633
                   - 6640
                   - 6653
-                  - 8081
+                  - 8101
       step_config: |
         include tripleo::profile::base::neutron::opendaylight
